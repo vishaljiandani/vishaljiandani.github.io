@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Crimson Text", "Georgia", serif;
+}
+
+.is-centered {
+  display: block;
+  margin: 0 auto;
+}
+
+.is-rounded {
+  border-radius: 3%;
+}
+
+.hero.is-primary {
+  background-color: black;
+  color: white;
+}
+
+nav {
+  background-color: black;
+  color: blue;
+}
